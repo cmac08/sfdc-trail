@@ -1,4 +1,4 @@
 # sfdc-trail
 This is my read file.
-AHHH CONFLICT AAAAAAHHHHH
+New Line to create conflict. 
 I am completeing a salesforce trailhead. 
